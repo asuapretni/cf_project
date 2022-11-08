@@ -1,0 +1,8 @@
+body {
+    background: rgb(64,63,74);
+    background: linear-gradient(121deg, rgba(64,63,74,1) 0%, rgba(60,60,73,1) 35%, rgba(0,0,0,1) 100%);
+    color: azure;
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+    height: 1vh;
+}
